@@ -154,40 +154,40 @@ TVBS歡樂台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%AD%A1%E6%A8%82
 花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 韩国频道,#流派#
 
-tvN THE K2，https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
-阿里郎阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-KBS 1，https://tv.iill.top/kbs/11&p=0
-KBS 2，https://tv.iill.top/kbs/12&p=0
+tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+阿里郎阿里郎,http://amdlive-ch01,ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBS 1,https://tv.iill.top/kbs/11&p=0
+KBS 2,https://tv.iill.top/kbs/12&p=0
 BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-CJ OnStyle，https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CJ OnStyle Plus，https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS+ 2，http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-EBS 2，http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-GS Shop，https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-国乐电视台，http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-KBS电视剧，http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Joy，http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Kids，http://mytv.dothome.co.kr/ch/catv/6.php
-KBS LIFE，http://mytv.dothome.co.kr/ch/catv/5.php
-KBS LiveCam DokDo，http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBS Story，http://mytv.dothome.co.kr/ch/catv/4.php
-韩国电视台，https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-MBC，http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-NBS，https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-SBS，http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-TBS首尔，https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-국방国防电视台，http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+国乐电视台,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBS电视剧,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+韩国电视台,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+TBS首尔,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+국방国防电视台,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 TV조선,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV조선 2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-韩国电视台，https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩国电视台,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 SBS清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-TBS首尔，https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-MBC，http://mytv.dothome.co.kr/ch/public/5.php
+TBS首尔,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+MBC,http://mytv.dothome.co.kr/ch/public/5.php
 MBC-목포,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC-춘천,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 MBC-대구,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
