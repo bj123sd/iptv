@@ -142,7 +142,7 @@ TVBS歡樂台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%AD%A1%E6%A8%82
 阿里郎頻道,https://4gtv.tzh911.qzz.io/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
 韓國娛樂台 KMTV,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
 
-成人頻道 ADULT,#genre#
+成人頻道,#genre#
 极限电影台,http://z88.ubtvfans.com/live/rx3/405/f95ccfd8607fa48ca5046c0970bdfb7c/index.m3u8
 驚豔台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵啦玩美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
@@ -152,8 +152,8 @@ TVBS歡樂台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%AD%A1%E6%A8%82
 松視3,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlk207.flv
 松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-韩国频道,#流派#
 
+韩国频道,#genre#
 tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
 阿里郎阿里郎,http://amdlive-ch01,ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 KBS 1,https://tv.iill.top/kbs/11&p=0
