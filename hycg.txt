@@ -459,13 +459,6 @@ http://222.85.81.15:6060/PLTV2/3620/index.m3u8?icpid=dxrm2&servicetype=
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
-中天新闻1,http://74.91.26.218:82/live/ztxw.m3u8
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华日韩,https://t.freetv.fun/live/long-hua-ri-han.m3u8
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 
 Now新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻台,https://cdn.163189.xyz/163189/now
@@ -660,6 +653,13 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 台湾,#genre#
+中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华日韩,https://t.freetv.fun/live/long-hua-ri-han.m3u8
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GEqidd&tk=2nDfMgqDmiqe
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
