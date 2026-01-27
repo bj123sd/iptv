@@ -455,6 +455,11 @@ http://222.85.81.15:6060/PLTV2/3640/index.m3u8?icpid=dxrm2&servicetype=
 #EXTINF:-1 ,央广购物
 http://222.85.81.15:6060/PLTV2/3620/index.m3u8?icpid=dxrm2&servicetype=
 港澳台,#genre#
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+中天新闻1,http://74.91.26.218:82/live/ztxw.m3u8
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
