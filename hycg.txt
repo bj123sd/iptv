@@ -653,7 +653,7 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 台湾,#genre#
-中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
