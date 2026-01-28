@@ -1324,12 +1324,6 @@ VIU SIX，http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 凤凰卫视标清,http://119.32.12.17:2901/udp/224.1.100.3:11111
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-邵氏动作，http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-
-
 
 Astr 热烈,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
@@ -1358,16 +1352,6 @@ Astr 热烈,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视葡萄牙,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-
-大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
-大湾区卫视2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
-大湾区卫视2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
-广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-
-
 鳳凰HK,http://live4play.uk/livehttpplay?channel_id=30014
 
 民视道,rtmp://f13h.mine.nu/sat/tv051
@@ -1413,5 +1397,4 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 澳视澳门 ,http://61.244.22.4/ch1/ch1.live/chunklist_w1769233607.m3u8
 澳视澳门 ,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 澳视澳门 ,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
-
 
