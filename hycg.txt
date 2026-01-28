@@ -175,6 +175,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海|西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 青海|西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 四川地区,#genre#
+成都高新电视,https://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
 巴南综合,http://live.cqbntv.com/bnmc/tv0709.m3u8
